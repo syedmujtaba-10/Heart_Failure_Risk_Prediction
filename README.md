@@ -161,7 +161,7 @@ The dataset contains 13 features:
 ### Access
 
 First, we made the data publicly accessible in the current GitHub repository via this link:
-[https://github.com/HumdaanSyed/Heart-Failure-Risk-Prediction/blob/main/heart_failure_clinical_records_dataset.csv](https://github.com/HumdaanSyed/Heart-Failure-Risk-Prediction/blob/main/heart_failure_clinical_records_dataset.csv)
+[https://github.com/syedmujtaba-10/Heart_Failure_Risk_Prediction]
 
 and then link the dataset: 
 
